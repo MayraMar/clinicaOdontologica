@@ -1,0 +1,397 @@
+[2022-07-0516:44:50] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0516:45:09] [ WARN ] [OdontologoController:65] Se elimino el odontologo Dentista con id: 1
+[2022-07-0516:45:45] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 1. Error al ingresar el id.
+[2022-07-0516:58:28] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale
+[2022-07-0516:59:37] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0516:59:43] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0517:00:00] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-0517:00:06] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-0517:00:13] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-0517:00:17] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-0517:00:22] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-0608:52:15] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0608:52:15] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0608:52:15] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-0608:52:15] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-0608:52:16] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-0608:52:16] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-0608:52:16] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-0608:52:27] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0608:52:27] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0608:52:27] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-0608:52:27] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-0608:52:27] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-0608:52:27] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-0608:52:27] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-0608:52:44] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, Tercero - Matricula: 123
+[2022-07-0608:53:55] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Vista, Test - Matricula: 0
+[2022-07-0609:12:25] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0609:12:26] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0609:12:26] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-0609:12:26] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-0609:12:26] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-0609:12:26] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-0609:12:26] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-0609:13:04] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: M, M - DNI: 111.
+[2022-07-0609:22:50] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0609:22:50] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0609:22:50] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-0609:22:50] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-0609:22:50] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-0609:22:50] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-0609:22:50] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-0609:23:50] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: agente, super - DNI: 777.
+[2022-07-0609:41:04] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0609:41:14] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0609:41:19] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0609:41:21] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0609:43:53] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: t, Tercero - Matricula: 333
+[2022-07-0609:44:20] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: test, Tercero - DNI: 333.
+[2022-07-0615:01:24] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:01:27] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:03:45] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:03:52] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:04:22] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: p, Tercero - DNI: 333.
+[2022-07-0615:12:43] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:12:47] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:13:23] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:13:26] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:14:22] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:14:24] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:16:01] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:17:01] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:18:17] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:24:50] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:24:54] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:26:29] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:26:32] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:28:02] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: test, Tercero - DNI: 333.
+[2022-07-0615:29:04] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:29:08] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:31:20] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:31:22] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0615:32:43] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:32:52] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:34:14] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:34:19] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:34:57] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:35:04] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:38:10] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:38:14] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0615:45:21] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0615:45:24] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0621:51:22] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0621:51:26] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0621:53:28] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0621:53:32] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0621:58:31] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0621:58:34] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0621:58:55] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Dentista, One-REloaded - Matricula: 101 (ID 1)
+[2022-07-0621:59:10] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Luz, Segundo - Matricula: 222 (ID 2)
+[2022-07-0622:00:56] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0622:00:58] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0622:01:12] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Dentista, One-reloaded - Matricula: 101 (ID 1)
+[2022-07-0622:01:29] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-0622:02:20] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: to, Tercero - Matricula: 333
+[2022-07-0622:02:40] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: three, Tercero - Matricula: 333 (ID 3)
+[2022-07-0622:02:46] [ WARN ] [OdontologoController:65] Se elimino al odontologo three con id: 3
+[2022-07-0622:10:02] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0622:10:05] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0622:10:17] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-0622:10:25] [ WARN ] [OdontologoController:65] Se elimino al odontologo Sombra con id: 2
+[2022-07-0622:21:20] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0622:21:29] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0622:21:51] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 1.
+[2022-07-0622:25:25] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0622:25:30] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0710:45:14] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0710:45:20] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0710:46:02] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0710:46:04] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0710:47:09] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0710:47:12] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0710:47:33] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: bisio, alejandro (ID 1)
+[2022-07-0713:15:49] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0713:15:53] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0713:17:07] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: tercera, Mayra - DNI: 333.
+[2022-07-0713:18:45] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0713:19:18] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: test, Mayra - DNI: 333.
+[2022-07-0713:22:52] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0713:26:24] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0713:27:15] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: bisio, ale (ID 1)
+[2022-07-0713:33:02] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0713:35:20] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0713:35:35] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: bisio, ale (ID 1)
+[2022-07-0713:35:45] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: bisio, ale (ID 1)
+[2022-07-0713:35:57] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: bisio, ale (ID 1)
+[2022-07-0713:36:18] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: bisio, ale (ID 1)
+[2022-07-0713:42:07] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: bisio, ale (ID 1)
+[2022-07-0713:42:28] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Bisio, Tercero - Matricula: 333
+[2022-07-0713:42:41] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Bisio, Tercerooo - Matricula: 333 (ID 1)
+[2022-07-0714:03:22] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0714:03:24] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0714:04:43] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2223 (ID 1)
+[2022-07-0714:04:57] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, Fidel - Matricula: 123
+[2022-07-0714:04:58] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, Fidel - Matricula: 123
+[2022-07-0714:05:28] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Dentista, Tercero - Matricula: 333 (ID 3)
+[2022-07-0714:05:34] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 3
+[2022-07-0714:05:53] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: bisio, ale (ID 1)
+[2022-07-0714:06:27] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: Martinez, Mayra - DNI: 333.
+[2022-07-0714:06:46] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: Martinez, Mayra (ID 2)
+[2022-07-0714:06:52] [ WARN ] [PacienteController:65] Se elimino el paciente Martinez con id: 2
+[2022-07-0714:28:25] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0714:28:30] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0714:30:16] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0714:30:18] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0714:32:02] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0714:32:05] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0908:27:59] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0908:27:59] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0908:27:59] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-0908:27:59] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-0908:27:59] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-0908:27:59] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-0908:27:59] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-0908:28:11] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0908:28:11] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0908:28:11] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-0908:28:11] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-0908:28:11] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-0908:28:11] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-0908:28:11] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-0908:28:22] [ ERROR] [TurnoController:53] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-0908:28:22] [ ERROR] [TurnoController:58] El paciente (ID=1) u odontólogo (ID=1) ingresados no existen. Verifique los ID e intente nuevamente.
+[2022-07-0908:34:12] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0908:34:12] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0908:34:13] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-0908:34:13] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-0908:34:13] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-0908:34:13] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-0908:34:13] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-0908:34:17] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0908:34:17] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0908:34:17] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-0908:34:17] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-0908:34:17] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-0908:34:17] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-0908:34:17] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-0908:34:19] [ ERROR] [TurnoController:53] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-0908:34:19] [ ERROR] [TurnoController:58] El paciente (ID=1) u odontólogo (ID=1) ingresados no existen. Verifique los ID e intente nuevamente.
+[2022-07-0908:36:05] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0908:36:05] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0908:36:05] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-0908:36:05] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-0908:36:05] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-0908:36:06] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-0908:36:06] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-0908:36:06] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0908:36:07] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0908:36:07] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-0908:36:07] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-0908:36:07] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-0908:36:07] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-0908:36:07] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-0908:36:08] [ ERROR] [TurnoController:53] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-0908:36:08] [ ERROR] [TurnoController:58] El paciente (ID=1) u odontólogo (ID=1) ingresados no existen. Verifique los ID e intente nuevamente.
+[2022-07-0908:37:53] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, Tercero - Matricula: 123
+[2022-07-0908:38:31] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0921:38:16] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0921:38:18] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0921:38:20] [ ERROR] [TurnoController:58] El paciente (ID=2) u odontólogo (ID=2) ingresados no existen. Verifique los ID e intente nuevamente.
+[2022-07-0921:38:29] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-0921:38:29] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-0921:38:29] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-0921:38:29] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-0921:38:30] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-0921:38:30] [ WARN ] [OdontologoController:65] Se elimino al odontologo Sombra con id: 1
+[2022-07-0921:38:30] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-0921:38:33] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-0921:38:33] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-0921:38:33] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-0921:38:33] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-0921:38:34] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-0921:38:34] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-0921:38:34] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-0921:38:36] [ ERROR] [TurnoController:53] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-0921:38:36] [ ERROR] [TurnoController:58] El paciente (ID=1) u odontólogo (ID=1) ingresados no existen. Verifique los ID e intente nuevamente.
+[2022-07-1010:42:29] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-1010:42:29] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-1010:42:29] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-1010:42:29] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-1010:42:30] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-1010:42:30] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-1010:42:30] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-1010:42:57] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-1010:42:57] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-1010:42:57] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-1010:42:57] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-1010:42:57] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-1010:42:57] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-1010:42:57] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-1010:43:07] [ ERROR] [TurnoController:53] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-1010:43:07] [ ERROR] [TurnoController:58] El paciente (ID=1) u odontólogo (ID=1) ingresados no existen. Verifique los ID e intente nuevamente.
+[2022-07-1010:46:59] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-1010:46:59] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-1010:47:00] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-1010:47:00] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-1010:47:00] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-1010:47:00] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-1010:47:00] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-1010:47:01] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-1010:47:01] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-1010:47:01] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-1010:47:01] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-1010:47:01] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-1010:47:01] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-1010:47:01] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-1010:47:02] [ ERROR] [TurnoController:53] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-1010:47:02] [ ERROR] [TurnoController:58] El paciente (ID=1) u odontólogo (ID=1) ingresados no existen. Verifique los ID e intente nuevamente.
+[2022-07-1010:49:17] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-1010:49:17] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-1010:49:17] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-1010:49:17] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-1010:49:17] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-1010:49:17] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-1010:49:17] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-1010:49:20] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-1010:49:20] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-1010:49:20] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-1010:49:20] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-1010:49:20] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-1010:49:20] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-1010:49:20] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-1010:49:31] [ ERROR] [TurnoController:53] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-1010:49:31] [ ERROR] [TurnoController:58] El paciente (ID=1) u odontólogo (ID=1) ingresados no existen. Verifique los ID e intente nuevamente.
+[2022-07-1010:56:58] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-1010:56:58] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-1010:56:58] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-1010:56:58] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-1010:56:58] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-1010:56:58] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-1010:56:58] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-1010:56:59] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-1010:57:00] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-1010:57:00] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-1010:57:00] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-1010:57:00] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-1010:57:00] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-1010:57:00] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-1010:57:02] [ ERROR] [TurnoController:53] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-1010:57:02] [ ERROR] [TurnoController:58] El paciente (ID=1) u odontólogo (ID=1) ingresados no existen. Verifique los ID e intente nuevamente.
+[2022-07-1011:19:33] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-1011:19:34] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-1011:19:34] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-1011:19:34] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-1011:19:34] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-1011:19:34] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-1011:19:34] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-1011:19:38] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-1011:19:38] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-1011:19:38] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-1011:19:38] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-1011:19:38] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-1011:19:38] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-1011:19:38] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-1011:19:40] [ ERROR] [TurnoController:53] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-1011:19:40] [ ERROR] [TurnoController:58] El paciente (ID=1) u odontólogo (ID=1) ingresados no existen. Verifique los ID e intente nuevamente.
+[2022-07-1011:19:54] [ INFO ] [TurnoController:69] Se actualizaron los datos del turno con ID: 1, del paciente marti.
+[2022-07-1011:33:29] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-1011:33:36] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-1011:33:40] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-1011:33:42] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-1011:33:45] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-1011:33:48] [ ERROR] [TurnoController:53] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-1011:45:40] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Noventaynueve, Agente - Matricula: 99
+[2022-07-1011:46:30] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: Marti, Mayra - DNI: 3232.
+[2022-07-1011:48:08] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Noventaynueve, Agente - Matricula: 99
+[2022-07-1011:48:47] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: Marti, Mayra - DNI: 3232.
+[2022-07-1011:49:48] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: null, null - Matricula: 0
+[2022-07-1011:52:14] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Bisio, Fidel - Matricula: 99
+[2022-07-1011:52:54] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: Marti, Mayra - DNI: 3232.
+[2022-07-1011:53:26] [ INFO ] [TurnoController:51] Se ha tomado un nuevo turno
+[2022-07-1011:53:47] [ INFO ] [TurnoController:70] Se actualizaron los datos del turno con ID: 1, del paciente Marti.
+[2022-07-1015:43:18] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-1015:43:18] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-1015:43:19] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-1015:43:19] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-1015:43:19] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-1015:43:19] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-1015:43:19] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-1015:44:10] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-1015:44:10] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-1015:44:10] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-1015:44:10] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-1015:44:10] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-1015:44:10] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-1015:44:10] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-1015:44:21] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-1015:46:56] [ INFO ] [TurnoController:51] Se ha tomado un nuevo turno
+[2022-07-1015:46:56] [ ERROR] [TurnoController:54] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-1015:46:56] [ ERROR] [TurnoController:59] El paciente (ID=1) u odontólogo (ID=1) ingresados no existen. Verifique los ID e intente nuevamente.
+[2022-07-1015:48:06] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-1015:48:06] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-1015:48:07] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-1015:48:07] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-1015:48:07] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-1015:48:07] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-1015:48:07] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-1015:48:11] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 2424.
+[2022-07-1015:48:11] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: marti, may - DNI: 3232.
+[2022-07-1015:48:11] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-1015:48:11] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: marti, may (ID 2)
+[2022-07-1015:48:11] [ ERROR] [PacienteController:55] No se encontro al paciente con id: 4. No es posible actualizar los datos.
+[2022-07-1015:48:11] [ WARN ] [PacienteController:65] Se elimino el paciente bisio con id: 1
+[2022-07-1015:48:11] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-1015:48:16] [ INFO ] [TurnoController:51] Se ha tomado un nuevo turno
+[2022-07-1015:48:16] [ ERROR] [TurnoController:54] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-1015:48:16] [ ERROR] [TurnoController:59] El paciente (ID=1) u odontólogo (ID=1) ingresados no existen. Verifique los ID e intente nuevamente.
+[2022-07-1022:16:49] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Martinez, Mayra - Matricula: 123
+[2022-07-1022:17:16] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: Dentista, Tercero - DNI: 3232.
+[2022-07-1022:21:05] [ ERROR] [TurnoController:54] Los datos del paciente u odontologo ingresados no son correctos. Intente reservar el turno nuevamente.
+[2022-07-1022:21:39] [ INFO ] [TurnoController:51] Se ha tomado un nuevo turno
+[2022-07-1022:22:01] [ INFO ] [TurnoController:70] Se actualizaron los datos del turno con ID: 1, del paciente Dentista.
+[2022-07-1022:22:06] [ WARN ] [TurnoController:84] Se elimino el turno con id: 1
+[2022-07-1022:36:48] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: 1, 1 - Matricula: 333
+[2022-07-1022:38:11] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: bisio, ale - Matricula: 333
+[2022-07-1022:39:00] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: test, Fidel - DNI: 3232.
+[2022-07-1022:42:21] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Uno, Dentista - Matricula: 123
+[2022-07-1022:42:59] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: Martinez, Mayra - DNI: 3232.
+[2022-07-1022:44:16] [ INFO ] [TurnoController:51] Se ha tomado un nuevo turno
+[2022-07-1022:51:17] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Marti, Mayra Soledad - Matricula: 123
+[2022-07-1022:51:58] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: Bisio, Fidel - DNI: 3232.
+[2022-07-1022:52:32] [ INFO ] [TurnoController:51] Se ha tomado un nuevo turno
+[2022-07-1022:52:59] [ INFO ] [TurnoController:70] Se actualizaron los datos del turno con ID: 1, del paciente Bisio.
+[2022-07-1109:46:38] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Martinez, Mayra - Matricula: 123
+[2022-07-1109:47:08] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Martinez, Mayra - Matricula: 999 (ID 1)
+[2022-07-1110:04:14] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-1110:46:43] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: Bisio, Mayra Martinez - DNI: 3232.
+[2022-07-1110:48:35] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: bisio, ale - DNI: 3232.
+[2022-07-1110:48:49] [ INFO ] [PacienteController:51] Se actualizaron los datos del siguiente paciente: bisio, ale (ID 1)
+[2022-07-1110:50:55] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-1110:50:55] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-1110:50:55] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-1110:50:55] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-1110:50:56] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-1110:50:56] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-1110:50:56] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-1110:54:04] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, One - Matricula: 101
+[2022-07-1110:54:05] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Sombra, Segundo - Matricula: 222
+[2022-07-1110:54:05] [ ERROR] [OdontologoController:35] No se encontro al odontologo con id: 5.
+[2022-07-1110:54:05] [ INFO ] [OdontologoController:50] Se actualizaron los datos del siguiente odontologo: Sombra, Segundo - Matricula: 2020 (ID 2)
+[2022-07-1110:54:05] [ ERROR] [OdontologoController:53] No se encontro al odontologo con id: 4. No es posible actualizar los datos.
+[2022-07-1110:54:05] [ WARN ] [OdontologoController:65] Se elimino al odontologo Dentista con id: 1
+[2022-07-1110:54:05] [ ERROR] [OdontologoController:69] No se encontro al odontologo con id: 5. Error al ingresar el id.
+[2022-07-1110:54:09] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 2.
+[2022-07-1110:54:09] [ ERROR] [PacienteController:36] No se encontro al paciente con id: 5.
+[2022-07-1110:54:10] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 1. Error al ingresar el id.
+[2022-07-1110:54:10] [ ERROR] [PacienteController:68] No se encontro al paciente con id: 5. Error al ingresar el id.
+[2022-07-1111:04:55] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, Mayra - Matricula: 123
+[2022-07-1111:05:25] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: Marti, Mayra Soledad - DNI: 3232.
+[2022-07-1111:05:25] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: Marti, Mayra Soledad - DNI: 3232.
+[2022-07-1111:05:49] [ INFO ] [TurnoController:51] Se ha tomado un nuevo turno
+[2022-07-1111:06:06] [ INFO ] [TurnoController:70] Se actualizaron los datos del turno con ID: 1, del paciente Marti.
+[2022-07-1111:06:15] [ WARN ] [TurnoController:84] Se elimino el turno con id: 1
+[2022-07-1112:33:46] [ INFO ] [OdontologoController:42] Se agrego al siguiente odontologo: Dentista, Dentista - Matricula: 123
+[2022-07-1112:34:13] [ INFO ] [PacienteController:43] Se agrego al siguiente paciente: Marti, Mayra - DNI: 3232.
+[2022-07-1112:35:19] [ INFO ] [TurnoController:51] Se ha tomado un nuevo turno
+[2022-07-1112:35:54] [ INFO ] [TurnoController:70] Se actualizaron los datos del turno con ID: 1, del paciente Marti.
